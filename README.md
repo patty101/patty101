@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @patty101
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-patty101/patty101 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m Patricia
+- 👀 I’m interested in Video Editing, Customer Service, and Virtual Assistant work.
+- 🌱 I’m currently learning Video Editing and Social Media Management.
+- 💞️ I’m looking to collaborate with clients looking for a Video Editor, Virtual Assistant, and Customer Service representative.
+- 📫 You can contact me through email: patrish.delaserna26@gmail.com
